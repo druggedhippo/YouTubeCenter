@@ -22,7 +22,7 @@
   
   <property name="encoding" value="UTF-8" />
   
-  <property name="name" value="YouTubeCenter" />
+  <property name="name" value="YouTubeCenterDH" />
   
   <property name="build" value="${basedir}/build" />
   <property name="src" value="${basedir}/src" />

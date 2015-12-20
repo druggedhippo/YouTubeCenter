@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>jid1-cwbvBTE216jjpg@jetpack</em:id>
+    <em:id>youtubecenter@druggedhippo.id.au</em:id>
     <em:version>@version@</em:version>
     <em:type>2</em:type>
     <em:iconURL>resource://ytcenter/data/icon32.png</em:iconURL>
     <em:iconURL64>resource://ytcenter/data/icon64.png</em:iconURL64>
-    <em:homepageURL>https://github.com/YePpHa/YouTubeCenter/wiki</em:homepageURL>
+    <em:homepageURL>https://github.com/druggedhippo/YouTubeCenter/wiki</em:homepageURL>
     <em:optionsURL>http://www.youtube.com/#ytcenter.settings.open</em:optionsURL>
     <em:optionsType>3</em:optionsType>
     <em:bootstrap>true</em:bootstrap>
@@ -40,7 +40,7 @@
 
     <!-- Front End MetaData -->
     <em:name>@name@</em:name>
-    <em:description>YouTube Center contains all kind of different useful functions which makes your visit on YouTube much more entertaining.</em:description>
+    <em:description>YouTube CenterDH contains all kind of different useful functions which makes your visit on YouTube much more entertaining.</em:description>
     <em:creator>Jeppe Rune Mortensen</em:creator>
     @firefox-update-install-part@
     <!-- Translators -->
